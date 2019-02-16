@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\quantum\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(62): warning C4244: 'initializing': conversion from 'int64' to 'double', possible loss of data
+c:\users\quantum\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(125): warning C4244: 'initializing': conversion from 'size_t' to 'double', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\Quantum\Documents\Visual Studio 2017\Projects\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
